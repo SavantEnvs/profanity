@@ -1,0 +1,1 @@
+<presence from='room@conference.example.org/nick' to='me@example.com/res'><x xmlns='http://jabber.org/protocol/muc#user'><item affiliation='member' role='participant' nick='newnick'/><status code='110'/><status code='303'/><destroy jid='other@conference.example.org'><reason>moved</reason></destroy></x></presence>

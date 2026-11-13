@@ -1,0 +1,3 @@
+
+open %u -f %p
+http://example.com/a

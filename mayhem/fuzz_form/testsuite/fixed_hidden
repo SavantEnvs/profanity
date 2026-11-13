@@ -1,0 +1,1 @@
+<x xmlns='jabber:x:data' type='result'><reported><field var='name' label='Name' type='text-single'/></reported><field type='fixed'><value>Section</value></field><field var='h' type='hidden'><value>x</value></field><field var='t' type='text-multi'><value>line1</value><value>line2</value></field><field var='unknown' type='bogus'><value/></field></x>

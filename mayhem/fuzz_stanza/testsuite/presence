@@ -1,0 +1,1 @@
+<presence from='Romeo@example.net/orchard' to='juliet@example.com'><show>dnd</show><status>Busy</status><priority>5</priority><c xmlns='http://jabber.org/protocol/caps' hash='sha-1' node='http://code.google.com/p/exodus' ver='QgayPKawpkPSDYmwT/WM94uAlu0='/><delay xmlns='urn:xmpp:delay' stamp='2002-09-10T23:08:25Z'/><x xmlns='jabber:x:idle'/></presence>

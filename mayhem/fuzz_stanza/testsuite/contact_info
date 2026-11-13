@@ -1,0 +1,1 @@
+<x xmlns='jabber:x:data' type='result'><field var='FORM_TYPE' type='hidden'><value>http://jabber.org/network/serverinfo</value></field><field var='admin-addresses' type='list-multi'><value>mailto:xmpp@shakespeare.lit</value><value>xmpp:admins@shakespeare.lit</value></field></x>

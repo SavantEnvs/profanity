@@ -1,0 +1,9 @@
+project: savantenvs/profanity
+target: fuzz_jid
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_jid/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_jid
+    libfuzzer: true
+    timeout: 30

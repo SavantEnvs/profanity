@@ -1,0 +1,1 @@
+<x xmlns='jabber:x:data' type='submit'><field var='FORM_TYPE'><value>urn:xmpp:dataforms:softwareinfo</value></field><field var='os'><value>Linux</value></field><field var='password' type='text-private'><value>secret</value></field></x>

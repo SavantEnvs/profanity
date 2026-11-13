@@ -1,0 +1,1 @@
+<message from='room@conference.example.org/nick' type='groupchat'><body>hello</body><active xmlns='http://jabber.org/protocol/chatstates'/><delay xmlns='urn:xmpp:delay' from='room@conference.example.org' stamp='2023-05-01T12:30:00.123Z'/></message>

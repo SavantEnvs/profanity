@@ -1,0 +1,10 @@
+project: savantenvs/profanity
+target: fuzz_form
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_form/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_form
+    libfuzzer: true
+    dictionary: /mayhem/mayhem/fuzz_form/fuzz_form.dict
+    timeout: 30
